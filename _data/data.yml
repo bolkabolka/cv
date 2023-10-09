@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Most of my career I was a lead of small development teams. Setup effective development processes, keep team productive and motivated, implement strategic vision of a company in a product, analyse risks and ensuring compliance are my main goals and success markers. Scope of technologies with strong personal expertise: ruby, rails, relational databases, AWS services, but as a team we did all kind of things: fork and patch c libs, serverless web services, all kind of API integrations, AI prompts, etc.
+      I am a technology leader. My strong background in effective software development processes combined with an understanding of business and customer requirements enables me to positively impact the technology products I’m a part of. I have a strong track record of establishing effective development processes, keeping teams productive and motivated, implementing the strategic vision of a company in its product, analyzing risks and ensuring compliance.
 
 experiences:
     title: Experiences
@@ -57,7 +57,7 @@ experiences:
         time: Aug 2014 - Sep 2023
         company: Mobile Coach
         details: |
-          I came as single developer and built a team during next year. As a team we built from scratch platform to make chatbot of any complexity via configuration only. Platform has integration with multiple messaging services, ability to integrate via configuration with any external API, like your back office, enterprise level security and vast flexibility.
+          Founding member of the company. I was responsible for overall product architecture, product development lifecycle, recruiting and managing the development team. My work over the past 9 years resulted in the most robust chatbot authoring platform in the market with a deep feature set of messaging configuration options, integration with multiple messaging services, API toolsets and AI implementation all with enterprise level security.
             - Role: Project Manager, Architect, Team Lead, Ruby developer
             - Technologies: Ruby, Rails, PostgrSQL, Docker, AWS, API
       - role: Ruby Team Lead
