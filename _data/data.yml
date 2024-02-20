@@ -60,18 +60,18 @@ experiences:
           Founding member of the company. I was responsible for overall product architecture, product development lifecycle, recruiting and managing the development team. My work over the past 9 years resulted in the most robust chatbot authoring platform in the market with a deep feature set of messaging configuration options, integration with multiple messaging services, API toolsets and AI implementation all with enterprise level security.
             - Role: Project Manager, Architect, Team Lead, Ruby developer
             - Technologies: Ruby, Rails, PostgreSQL, Docker, AWS, API
-      - role: Ruby Team Lead
+      - role: Team Lead
         time: Oct 2012 - Aug 2014
         company: Nasctech
         details: |
-          Complex solution for tracking telecom companies workflows.
+          Initially joining as a Ruby on Rails developer before quickly advancing to a team leader position. During my tenure, I spearheaded a dedicated team focused on developing and enhancing the company’s core platform, which comprised both a comprehensive portal and an API tailored for mobile clients. This platform serves as a pivotal product for managing field operation support specifically designed for telecom companies. Under my leadership, the platform evolved significantly, ensuring robust functionality and reliability to meet the dynamic needs of our clients. We successfully catered to a diverse clientele, primarily located across Africa and Asia, demonstrating the platform's adaptability and effectiveness in various operational contexts. My role involved close collaboration with multiple IT teams, including integration, mobile development, and DevOps, to drive the product's continuous improvement and to ensure its alignment with the evolving industry standards and client requirements.
             - Role: Architect, Team Lead, Ruby developer
             - Technologies: Ruby, Rails, MySQL, MongoDB
-      - role: Lead Developer & PM
+      - role: Cofounder, Engineering Manager
         time: Oct 2010 - Oct 2013
         company: R-Ideas
         details: |
-          Multiple outsource projects.
+          I served as a co-founder and key contributor to a development company specializing in outstaffing services. My role was crucial in the initial stages, where I focused on assembling a dedicated team, overseeing the hiring and training processes to ensure a skilled workforce of professionals. Alongside my managerial duties, I actively participated in development projects, applying my technical expertise across a variety of assignments. Our team worked on numerous projects, adapting to the diverse needs of our clients.
             - Role: Project Manager, Lead Developer
             - Technologies: Ruby, Rails, MySQL, PostgreSQL, CSS, Javascript, jQuery, APIs
       - role: Ruby on Rails developer
