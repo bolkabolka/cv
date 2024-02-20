@@ -59,7 +59,7 @@ experiences:
         details: |
           Founding member of the company. I was responsible for overall product architecture, product development lifecycle, recruiting and managing the development team. My work over the past 9 years resulted in the most robust chatbot authoring platform in the market with a deep feature set of messaging configuration options, integration with multiple messaging services, API toolsets and AI implementation all with enterprise level security.
             - Role: Project Manager, Architect, Team Lead, Ruby developer
-            - Technologies: Ruby, Rails, PostgrSQL, Docker, AWS, API
+            - Technologies: Ruby, Rails, PostgreSQL, Docker, AWS, API
       - role: Ruby Team Lead
         time: Oct 2012 - Aug 2014
         company: Nasctech
