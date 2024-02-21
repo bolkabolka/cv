@@ -69,28 +69,26 @@ experiences:
         company: Nasctech
         details: |
           Joining as a Ruby on Rails developer, I quickly transitioned to a team leader, where I guided the development and expansion of our key platform, including a portal and mobile clients API. This crucial product, focused on telecom field operation support, underwent significant evolution to provide robust, reliable solutions, catering to diverse clients mostly in Africa and Asia. My role required collaboration with various IT teams — integration, mobile development, DevOps, product team and support to continuously improve the product and align it with industry standards and client needs.
-            - Role: Architect, Team Lead, Ruby developer
             - Technologies: Ruby, Rails, MySQL, MongoDB
+            - Increased automatic test coverage from 0 to 90%, resulting in a 60% decrease in testing time and a 30% increase in team productivity.
+            
       - role: Cofounder, Engineering Manager
         time: Oct 2010 - Oct 2013
         company: R-Ideas
         details: |
           I served as a co-founder and key contributor to a development company specializing in outstaffing services. My role was crucial in the initial stages, where I focused on assembling a dedicated team, overseeing the hiring and training processes to ensure a skilled workforce of professionals. Alongside my managerial duties, I actively participated in development projects, applying my technical expertise across a variety of assignments. Our team worked on numerous projects, adapting to the diverse needs of our clients.
-            - Role: Project Manager, Lead Developer
             - Technologies: Ruby, Rails, MySQL, PostgreSQL, CSS, Javascript, jQuery, APIs
       - role: Ruby on Rails developer
         time: Oct 2008 - Oct 2010
         company: JetThoughts
         details: |
           Multiple outsource projects, from minor single page to upload video and convert to multiple formats, to complex SaaS to sell consultant services.
-            - Role: full stack developer
             - Technologies: Ruby, Rails, MySQL, CSS, Prototype, jQuery, API
       - role: LAMP developer
         time: May 2007 - Oct 2007
         company: «KSI-U» Ltd.
         details: |
           Payment system - designing and support of the project on reception of payments by means of information terminals.
-            - Role: developer
             - Technologies: Linux Gentoo, MySQL, PHP, Apache
 
 education:
