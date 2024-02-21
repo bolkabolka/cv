@@ -58,7 +58,7 @@ experiences:
         company: Mobile Coach
         details: |
           Founding member of the company. I was responsible for overall product architecture, product development lifecycle, recruiting and managing the development team. My work over the past 9 years resulted in the most robust chatbot authoring platform in the market with a deep feature set of messaging configuration options, integration with multiple messaging services, API toolsets and AI implementation all with enterprise level security.
-            - Technologies: Ruby, Rails, PostgreSQL, Docker, AWS
+            - Technologies: Ruby on Rails, PostgreSQL, Docker, AWS
             - Implemented development process resulting in 90% decrease in error rate, improving quality and increasing customer satisfaction.
             - Implemented strict security measures and protocols to ensure product met highest standards, resulting in 100% SOC2, ISO, and HIPAA compliance.
             - Streamlined customer experience and increased loyalty by proactively addressing potential issues through active products monitoring.
@@ -69,21 +69,21 @@ experiences:
         company: Nasctech
         details: |
           Joining as a Ruby on Rails developer, I quickly transitioned to a team leader, where I guided the development and expansion of our key platform, including a portal and mobile clients API. This crucial product, focused on telecom field operation support, underwent significant evolution to provide robust, reliable solutions, catering to diverse clients mostly in Africa and Asia. My role required collaboration with various IT teams — integration, mobile development, DevOps, product team and support to continuously improve the product and align it with industry standards and client needs.
-            - Technologies: Ruby, Rails, MySQL, MongoDB
+            - Technologies: Ruby on Rails, MySQL, MongoDB
             - Increased automatic test coverage from 0 to 90%, resulting in a 60% decrease in testing time and a 30% increase in team productivity.
-            
+
       - role: Cofounder, Engineering Manager
         time: Oct 2010 - Oct 2013
         company: R-Ideas
         details: |
           I served as a co-founder and key contributor to a development company specializing in outstaffing services. My role was crucial in the initial stages, where I focused on assembling a dedicated team, overseeing the hiring and training processes to ensure a skilled workforce of professionals. Alongside my managerial duties, I actively participated in development projects, applying my technical expertise across a variety of assignments. Our team worked on numerous projects, adapting to the diverse needs of our clients.
-            - Technologies: Ruby, Rails, MySQL, PostgreSQL, CSS, Javascript, jQuery, APIs
+            - Technologies: Ruby on Rails, MySQL, PostgreSQL, CSS, Javascript, jQuery, REST API
       - role: Ruby on Rails developer
         time: Oct 2008 - Oct 2010
         company: JetThoughts
         details: |
           Multiple outsource projects, from minor single page to upload video and convert to multiple formats, to complex SaaS to sell consultant services.
-            - Technologies: Ruby, Rails, MySQL, CSS, Prototype, jQuery, API
+            - Technologies: Ruby, Rails, MySQL, CSS, Prototype, jQuery, REST API
       - role: LAMP developer
         time: May 2007 - Oct 2007
         company: «KSI-U» Ltd.
