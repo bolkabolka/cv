@@ -53,6 +53,11 @@ career-profile:
 experiences:
     title: Experiences
     info:
+      - role: Back-end Developer
+        time: May 2024 - Aug 2025
+        company: Settle
+        details: |
+          Contributed to projects involving banking integrations and warehouse management system (WMS) integrations, enhancing customer experience and ensuring high project quality.
       - role: CTO
         time: Aug 2014 - Sep 2023
         company: Mobile Coach
