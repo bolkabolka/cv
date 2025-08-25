@@ -158,24 +158,24 @@ education:
 #         authors: Donald E. Knuth
 #         conference: Addison-Wesley, 1968
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Technical Proficiency
-        level: 90%
-
-      - name: Leadership & Collaboration
-        level: 95%
-
-      - name: Project Management
-        level: 98%
-
-      - name: Team Building
-        level: 98%
-
-      - name: Security and Compliance
-        level: 75%
+# skills:
+#     title: Skills &amp; Proficiency
+# 
+#     toolset:
+#       - name: Technical Proficiency
+#         level: 90%
+# 
+#       - name: Leadership & Collaboration
+#         level: 95%
+# 
+#       - name: Project Management
+#         level: 98%
+# 
+#       - name: Team Building
+#         level: 98%
+# 
+#       - name: Security and Compliance
+#         level: 75%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
