@@ -1,5 +1,7 @@
 function print() {
-  const printWindow = window.open("/print", "_blank");
+  const path = window.location.pathname.replace(/\/$/, "");
+  const printURL = `${window.location.origin}${path}/print${window.location.search || ""}${window.location.hash || ""}`;
+  const printWindow = window.open(printURL, "_blank");
   printWindow.onload = function () {
     printWindow.print();
     // Close the print window after a delay
