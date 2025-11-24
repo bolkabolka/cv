@@ -9,6 +9,7 @@
   }
   .wrapper {
     max-width: 100%;
+    display: block;
   }
 
   //   img.avatar {
@@ -23,9 +24,53 @@
   }
   .sidebar-wrapper {
     position: static;
-    //  float: right;
-    //  width: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 15px 30px;
+    padding: 20px 30px 10px;
+    background: $theme-color;
     -webkit-print-color-adjust: exact;
+  }
+
+  .sidebar-wrapper .profile-container {
+    flex: 1 1 280px;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 15px;
+    background: transparent;
+    text-align: left;
+  }
+
+  .sidebar-wrapper .profile-container .avatar {
+    max-width: 70px;
+    margin: 0;
+  }
+
+  .sidebar-wrapper .profile-container .name {
+    font-size: 24px;
+    margin: 0;
+  }
+
+  .sidebar-wrapper .profile-container .tagline {
+    font-size: 12px;
+    margin: 4px 0 0;
+  }
+
+  .sidebar-wrapper .profile-container > *:not(:first-child) {
+    flex: 1 1 100%;
+  }
+
+  .sidebar-wrapper .container-block {
+    padding: 0;
+    flex: 1 1 220px;
+    margin: 0;
+  }
+
+  .sidebar-wrapper .container-block-title {
+    margin-bottom: 8px;
   }
 
   .remove-container.container-block {
@@ -44,6 +89,10 @@
   .skillset .level-bar-inner {
     background-color: $theme-color !important;
     -webkit-print-color-adjust: exact;
+  }
+
+  .main-wrapper {
+    padding: 30px 40px 60px;
   }
 
    .fa-inverse,
