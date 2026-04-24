@@ -1,47 +1,28 @@
-<a href="https://jekyll-themes.com">
-<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
+# Slavik Balabolka CV
 
-# Orbit
-This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
-Visit [her website](http://themes.3rdwavemedia.com/) for more themes.
+This repository contains the source for Slavik Balabolka's CV site built with Jekyll.
 
-## Installation
+## Updating the CV
 
-* [Fork](https://github.com/sharu725/online-cv/fork) the repository;
-* Go to settings and set master branch as Github Pages source;
-* Your new site should be ready at `https://<username>.github.io/online-cv/`;
-* Printable version of the site can be found at `https://<username>.github.io/online-cv/print`. Use a third party link https://pdflayer.com/, https://www.web2pdfconvert.com/ etc to get the printable PDF.
+Most content lives in [`_data/data.yml`](./_data/data.yml). Edit that file to update experience, skills, links, and other profile details.
 
-Change all the details from one place: `_data/data.yml`.
+The site configuration is in [`_config.yml`](./_config.yml), including the title, custom domain, and Jekyll settings.
 
-### To preview/edit locally with docker
+The published site is available at <http://bolkabolka.github.io>, and the printable version is at <http://bolkabolka.github.io/print>.
+
+## Preview locally with Docker
 
 ```sh
 docker-compose up
 ```
 
-*docker-compose.yml* file is used to create a container that is reachable under <http://localhost:4000>.
-Changes *_data/data.yml* will be visible after a while.
+This starts the site at <http://localhost:4000>. Changes to `_data/data.yml` and templates will be picked up automatically after a short rebuild.
 
-### Local machine
-
-* Get the repo into your machine 
-
-```bash
-git clone https://github.com/sharu725/online-cv.git
-```
-
-* Install required ruby gems
+## Preview locally with Ruby
 
 ```bash
 bundle install
-```
-
-* Serve the site locally
-
-```bash
 bundle exec jekyll serve
 ```
 
-* Navigate to `http://localhost:4000`
+Then open <http://localhost:4000>.
