@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Slavik Balabolka
-    tagline: Tech Lead
+    tagline: Senior Ruby on Rails Engineer · Tech Lead
     avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a technology leader. My strong background in effective software development processes combined with an understanding of business and customer requirements enables me to positively impact the technology products I’m a part of. I have a strong track record of establishing effective development processes, keeping teams productive and motivated, implementing the strategic vision of a company in its product, analyzing risks and ensuring compliance.
+      Senior Ruby/Rails backend developer with 15+ years of experience building SaaS products, APIs, integrations, and reliable backend systems. Strong background in PostgreSQL, Rails architecture, testing, monitoring, and cloud deployments. I combine hands-on engineering with technical leadership experience, helping teams improve delivery quality, platform reliability, and product outcomes.
 
 experiences:
     title: Experiences
