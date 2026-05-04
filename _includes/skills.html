@@ -10,7 +10,7 @@
 
   <div class="skillset">
     {% for skill in skills.toolset %}
-    <div class="item">
+    <div class="item{% if skill.keywords %} has-keywords{% endif %}">
       <h3 class="level-title">{{ skill.name }}</h3>
       {% if skill.keywords %}
       <div class="skill-keywords">{{ skill.keywords }}</div>

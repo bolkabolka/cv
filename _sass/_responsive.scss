@@ -45,6 +45,21 @@
     position: relative;
     top: 1px;
   }
+
+  .skillset .item.has-keywords {
+    display: grid;
+    grid-template-columns: 30% 1fr;
+    column-gap: 20px;
+  }
+
+  .skillset .item.has-keywords .level-title {
+    float: none;
+    width: auto;
+  }
+
+  .skillset .item.has-keywords .skill-keywords {
+    min-width: 0;
+  }
 }
 
 .skillset .level-bar-inner {
