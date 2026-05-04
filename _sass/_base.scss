@@ -184,6 +184,31 @@ p {
       margin-bottom: 30px;
     }
   }
+
+  .technologies {
+    margin-top: 12px;
+    padding: 10px 12px;
+    border-left: 3px solid lighten($theme-color, 20%);
+    background: $smoky-white;
+    line-height: 1.6;
+  }
+
+  .technologies-title {
+    color: $text-color-secondary;
+    font-weight: 700;
+    margin-right: 6px;
+  }
+
+  .technology {
+    display: inline-block;
+    margin: 2px 4px 2px 0;
+    padding: 1px 7px;
+    border-radius: 12px;
+    background: #fff;
+    color: $text-color-secondary;
+    white-space: nowrap;
+  }
+
   .upper-row,
   .second-upper-row {
     position: relative;
